@@ -27,6 +27,8 @@ Develop an interactive multiple-choice quiz game that:
 - JavaScript
 
 ---
+🎥 **LinkedIn Video**   
+[LinkedIn Post 🔗](https://www.linkedin.com/posts/activity-7366024281014616065-Blok?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxllrAB2mP6usCdZraySPtZAqF6EL0J9c0)
 
 *This project is part of the SkillCraft Web Development Internship.*
 
